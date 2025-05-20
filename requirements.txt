@@ -1,0 +1,8 @@
+google-generativeai
+python-dotenv
+openai
+pygame 
+flask
+flask_cors
+kubernetes
+google-cloud-texttospeech
