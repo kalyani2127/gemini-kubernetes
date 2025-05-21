@@ -6,3 +6,4 @@ flask
 flask_cors
 kubernetes
 google-cloud-texttospeech
+pyttsx3
